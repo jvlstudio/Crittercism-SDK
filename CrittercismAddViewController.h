@@ -3,14 +3,14 @@
 //  CrittercismIPhone3
 //
 //  Created by Robert Kwok on 10/5/10.
-//  Copyright 2010 OliveWoo. All rights reserved.
+//  Copyright 2010 Crittercism. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
 #import "CrittercismUIAlertPrompt.h"
 #import "CrittercismDescriptionViewController.h"
-#import "CrittercismJSON/CrittercismJSONKit.h"
+#import "CrittercismJSONKit.h"
 
 @class Crittercism;
 
