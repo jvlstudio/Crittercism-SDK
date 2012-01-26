@@ -1,8 +1,14 @@
+Version 2.9.36 (January 26, 2012)
+Added support for Opt-Out
+
+Version 2.9.35 (January 4, 2012)
+Fixed bug in the support forum that displays Anonymous for admin submitted feedback items instead of Admin
+
 Version 2.9.34 (December 20, 2011)
 Fixed bug with storing app settings
 
 Version 2.9.33 (December 12, 2011)
-Fixed compability issues with JSON Library
+Fixed compatability issues with JSON Library
 
 Version 2.9.31 (December 3, 2011)
 Improvements in support forum efficiency
@@ -44,7 +50,7 @@ Version 2.9.18 (September 7, 2011)
 Moved sending offline crashes to a background thread
 
 Version 2.9.17 (September 1, 2011)
-Added feature that lets you pop up an alert prompting the user to rate your app after a specificed number of app loads
+Added feature that lets you pop up an alert prompting the user to rate your app after a specified number of app loads
 
 Version 2.9.16 (August 17, 2011)
 Added support for fatal signals
